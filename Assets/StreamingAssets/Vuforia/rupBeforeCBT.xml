@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BoardGameToPrint" size="6.000000 8.487097" />
+    <ImageTarget name="rup2" size="12.000000 8.484000" />
+    <ImageTarget name="rup" size="5.000000 3.535000" />
+  </Tracking>
+</QCARConfig>
